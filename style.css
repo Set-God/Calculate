@@ -1,0 +1,49 @@
+body {
+    font-size: 15pt;
+    background-color : #fff ;
+}
+
+*{
+  margin: 0 ;
+  padding: 0;
+}
+
+input{
+  width : 23% ;
+  height:16vh;
+  background-color : #fff ;
+  border: none ;
+  outline: none ;
+  font-size: 24pt ;
+}
+
+#d{
+  top: 0;
+  width: 95%;
+  height: 100px;
+  padding-left: 10px ;
+  padding-right: 5px ;
+  font-size: 30pt ;
+  font-weight: bold ;
+  text-align: right ;
+  margin-left :0;
+  border-bottom: 1px solid grey ;
+  color: black ;
+  max-width: 95%;
+}
+
+.f{
+  width:100vw;
+}
+
+#c{
+  color: #FD0000;
+  font-weight: bolder ;
+  font-size: 32pt ;
+}
+
+#e{
+  color : #F6AA49;
+  font-size: 35pt ;
+  font-weight: bolder ;
+}
